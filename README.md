@@ -1,2 +1,2 @@
-# Layout-Maden-Bootstrap
-Layout-Maden-Bootstrap um layout responsivo preparado para você começar a personalizar do seu jeito
+# Layout-Responsivo-Bootstrap
+Layout-Responsivo Feito com HTML5, CSS3, JAVASCRIPT, PHP E Bootstrap um layout responsivo comece a personalizar do seu jeito
